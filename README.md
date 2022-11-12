@@ -1,2 +1,0 @@
-# practica_LEMP
- 
